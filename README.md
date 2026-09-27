@@ -4,9 +4,9 @@ Welcome to my data analytics and visual analytics portfolio. This page showcases
 
 ## Featured Projects
 
-### 1. Vehicle Fuel Economy Visual Analytics
+### 1. Assessing the Impact of Market Shifts on Automotive Efficiency (1975–2025)
 
-[View the R analysis](https://github.com/abidurrahman2025/Visual-Analytics-Assignments/blob/ba0c2bce625224951ac09be335b2b5efacc7a50e/finalProjectVis.r)
+[View the R analysis](https://visualanalyticsjourney.blogspot.com/2026/04/final-project.html)
 
 This R-based visual analytics project explores how vehicle class, engine displacement, transmission type, and model year relate to fuel economy. It uses vehicle data from the U.S. Department of Energy and FuelEconomy.gov, cleans and recategorizes the data, and produces several visualizations to reveal long-term patterns in vehicle efficiency.
 
@@ -79,12 +79,21 @@ The project demonstrates how financial time-series analytics can be combined wit
 
 ## About Me
 
-I am interested in using data to understand real-world systems and communicate evidence clearly. My projects span visual analytics, automotive performance, transportation, and financial markets, with an emphasis on reproducible analysis and meaningful visual storytelling.
+I am Abidur Rahman, a passionate Information Science student at the University of South Florida. I'm interested in data science, and technology innovation. I turn raw numbers into actionable insights using Python, R, and Tableau, and I thrive on the intersection of statistical rigor and creative problem-solving. Whether collaborating on group analytics projects or building independent Java applications, my goal is always the same: to make data work for people.
+
+I'm passionate about leveraging AI to write smarter code and staying hands-on with every step of the data lifecycle. Dive into my projects below, or connect with me on LinkedIn—I'm always excited to geek out over a good dataset.
+My Interests
+
+    Data Science & Analytics
+    Web Development
+    Machine Learning
+
 
 ## Connect
 
 - **GitHub:** [@abidurrahman2025](https://github.com/abidurrahman2025)
-- **Visual Analytics Blog:** [Visual Analytics Journey](https://visualanalyticsjourney.blogspot.com/)
+- **GitHub Pages:** [GitHub Pages](https://abidurrahman2025.github.io/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/abidur-rahman-b394593a3/)
 
 ---
 
