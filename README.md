@@ -85,7 +85,6 @@ I'm passionate about leveraging AI to write smarter code and staying hands-on wi
 My Interests
 
     Data Science & Analytics
-    Web Development
     Machine Learning
 
 
