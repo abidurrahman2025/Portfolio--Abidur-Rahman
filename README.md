@@ -1,70 +1,85 @@
 # Abidur Rahman — Data Analytics Portfolio
 
-Welcome to my data analytics and visual analytics portfolio. This page highlights projects where I use statistical analysis, data visualization, and predictive modeling to turn real-world datasets into practical insights.
+Welcome to my data analytics and visual analytics portfolio. This page showcases projects that combine statistical analysis, data visualization, programming, and practical problem-solving across transportation, automotive, and financial-market datasets.
 
 ## Featured Projects
 
-### 1. Predicting Precipitation at JFK Airport
+### 1. Vehicle Fuel Economy Visual Analytics
 
-[Read the final project report](https://visualanalyticsjourney.blogspot.com/2026/04/final-project.html)
+[View the R analysis](https://github.com/abidurrahman2025/Visual-Analytics-Assignments/blob/ba0c2bce625224951ac09be335b2b5efacc7a50e/finalProjectVis.r)
 
-This visual analytics project investigates precipitation patterns at John F. Kennedy International Airport using a subset of NOAA weather data. The dataset contains 5,727 observations and climatological variables including humidity, wind speed, sea-level pressure, and station pressure.
+This R-based visual analytics project explores how vehicle class, engine displacement, transmission type, and model year relate to fuel economy. It uses vehicle data from the U.S. Department of Energy and FuelEconomy.gov, cleans and recategorizes the data, and produces several visualizations to reveal long-term patterns in vehicle efficiency.
 
-The project includes data preparation, exploratory visualizations, correlation analysis, and multiple linear regression models to identify the variables most closely associated with precipitation. The models produced similar RMSE values, while the model rankings aligned with the observed relationships among humidity, wind speed, and pressure measurements.
+The analysis includes:
 
-**Key themes:**
+- MPG distributions across cars, SUVs, and trucks
+- Changes in vehicle-class composition over time
+- The relationship between engine displacement and combined MPG
+- Gasoline and diesel efficiency trends from 1975 through 2025
+- Density plots, stacked bar charts, scatterplots, trend lines, and faceted comparisons
 
-- Weather and aviation analytics
-- Exploratory data visualization
-- Correlation analysis
-- Linear regression and model comparison
-- Data-informed airport operations and planning
+**Tools:** R, `ggplot2`, `dplyr`, `readr`, and `tidyr`
+
+---
 
 ### 2. Analysis of 2025 Vehicle Fuel Economy
 
 [View the project repository](https://github.com/abidurrahman2025/Analysis-of-2025-Vehicle-Fuel-Economy)
 
-This R-based analysis examines 2025 vehicle fuel-economy data from the U.S. Department of Energy and Environmental Protection Agency Fuel Economy Guide. The project evaluates how engine aspiration, fuel type, engine displacement, and drivetrain relate to combined, city, and highway MPG.
+This statistical analysis examines 2025 model-year vehicle fuel economy using data from the EPA and U.S. Department of Energy Fuel Economy Guide. The project investigates whether fuel economy differs by engine aspiration and fuel requirement while accounting for other vehicle characteristics.
 
-The analysis applies descriptive statistics, visualizations, t-tests, ANOVA, correlation analysis, and multiple regression. It finds that naturally aspirated vehicles had higher average fuel economy than turbocharged vehicles in the analyzed dataset, while regular-fuel vehicles initially showed higher MPG than premium-fuel vehicles. After controlling for additional vehicle characteristics, engine displacement and drivetrain remained important predictors, and the final model explained approximately 63.4% of the variation in fuel economy.
+The project applies:
 
-**Key themes:**
+- Descriptive statistics and exploratory visualization
+- Two-sample t-tests
+- ANOVA and interaction analysis
+- Correlation analysis
+- Multiple linear regression
+- Model diagnostics and interpretation of confounding variables
 
-- Statistical hypothesis testing
-- Regression modeling and diagnostics
-- Automotive and consumer analytics
-- R and reproducible data analysis
-- Interpreting relationships while accounting for confounding factors
+The analysis demonstrates how engine displacement, drivetrain, aspiration type, and fuel type are associated with city, highway, and combined MPG. It also emphasizes the importance of multivariable modeling when comparing vehicle technologies.
+
+**Tools:** R, Excel data, statistical modeling, and data visualization
+
+---
 
 ### 3. Real-time Currency Volatility Dashboard
 
 [View the project repository](https://github.com/abidurrahman2025/Real-time-Currency-Volatility-Dashboard)
 
-This Python and Plotly Dash application provides an interactive view of short- and medium-term volatility across currency pairs. It is designed for traders, analysts, and researchers who need an always-on overview of changing foreign-exchange market conditions.
+This Python and Plotly Dash application provides an interactive view of short- and medium-term volatility across currency pairs. It is designed for traders, analysts, and researchers who need an accessible way to monitor changing foreign-exchange market conditions.
 
-The dashboard supports configurable market-data ingestion, rolling and realized volatility calculations, log-return analysis, time-series charts, volatility heatmaps, alerts, and data export. Its modular design can support polling or websocket-based data sources, with optional storage for historical queries.
+Key capabilities include:
 
-**Key themes:**
+- Configurable real-time or frequently refreshed FX quote ingestion
+- Log-return and rolling-volatility calculations
+- Realized-volatility analysis
+- Interactive time-series charts and volatility heatmaps
+- Currency-pair selection and comparison
+- Threshold-based alerts and optional webhooks
+- CSV export of market snapshots and charts
 
-- Real-time financial data visualization
-- Rolling and realized volatility
-- Log-return analysis
-- Interactive dashboards with Plotly Dash
-- Market monitoring, alerts, and data export
+The project demonstrates how financial time-series analytics can be combined with an interactive dashboard for market monitoring and decision support.
+
+**Tools:** Python, Plotly Dash, Pandas, NumPy, APIs, and time-series analytics
+
+---
 
 ## Skills Demonstrated
 
-- Data cleaning and exploratory data analysis
+- Data cleaning and preparation
+- Exploratory data analysis
 - Statistical inference and hypothesis testing
-- Regression modeling and model validation
+- Correlation, ANOVA, and regression modeling
+- Model diagnostics and interpretation
 - Financial and time-series analytics
-- Interactive data visualization
+- Interactive and static data visualization
 - R and Python development
 - Communicating technical findings to practical audiences
 
-## About This Portfolio
+## About Me
 
-These projects reflect my interest in applying analytics to diverse domains—including weather, transportation, automotive performance, and financial markets. Each project combines data preparation, analytical reasoning, visualization, and clear communication of results.
+I am interested in using data to understand real-world systems and communicate evidence clearly. My projects span visual analytics, automotive performance, transportation, and financial markets, with an emphasis on reproducible analysis and meaningful visual storytelling.
 
 ## Connect
 
@@ -73,4 +88,4 @@ These projects reflect my interest in applying analytics to diverse domains—in
 
 ---
 
-*Thank you for visiting my portfolio.*
+Thank you for visiting my portfolio.
