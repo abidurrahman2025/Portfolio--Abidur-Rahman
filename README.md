@@ -85,7 +85,6 @@ I'm passionate about leveraging AI to write smarter code and staying hands-on wi
 My Interests
 
     Data Science & Analytics
-    Machine Learning
 
 
 ## Connect
