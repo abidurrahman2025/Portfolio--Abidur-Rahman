@@ -1,14 +1,14 @@
 # Abidur Rahman — Data Analytics Portfolio
 
-Welcome to my data analytics and visual analytics portfolio. This page showcases projects that combine statistical analysis, data visualization, programming, and practical problem-solving across transportation, automotive, and financial-market datasets.
+Welcome to my data analytics and visual analytics portfolio. This page showcases projects that combine statistical analysis, data visualization, programming, and practical problem-solving across the fields of transportation, finance, and applied analytics.
 
 ## Featured Projects
 
 ### 1. Assessing the Impact of Market Shifts on Automotive Efficiency (1975–2025)
 
-[View the R analysis](https://visualanalyticsjourney.blogspot.com/2026/04/final-project.html)
+[View the project repository](https://github.com/abidurrahman2025/automotive-efficiency-trends.git)
 
-This R-based visual analytics project explores how vehicle class, engine displacement, transmission type, and model year relate to fuel economy. It uses vehicle data from the U.S. Department of Energy and FuelEconomy.gov, cleans and recategorizes the data, and produces several visualizations to reveal long-term patterns in vehicle efficiency.
+This R-based visual analytics project explores how vehicle class, engine displacement, transmission type, and model year relate to fuel economy. It uses vehicle data from the U.S. Department of Energy, EPA, and historical automotive market records to examine how fuel efficiency has changed over time and across vehicle segments.
 
 The analysis includes:
 
@@ -26,7 +26,7 @@ The analysis includes:
 
 [View the project repository](https://github.com/abidurrahman2025/Analysis-of-2025-Vehicle-Fuel-Economy)
 
-This statistical analysis examines 2025 model-year vehicle fuel economy using data from the EPA and U.S. Department of Energy Fuel Economy Guide. The project investigates whether fuel economy differs by engine aspiration and fuel requirement while accounting for other vehicle characteristics.
+This statistical analysis examines 2025 model-year vehicle fuel economy using data from the EPA and U.S. Department of Energy Fuel Economy Guide. The project investigates whether fuel economy differs by drivetrain, body style, engine size, and fuel type while also assessing how tradeoffs vary by vehicle class.
 
 The project applies:
 
@@ -37,7 +37,7 @@ The project applies:
 - Multiple linear regression
 - Model diagnostics and interpretation of confounding variables
 
-The analysis demonstrates how engine displacement, drivetrain, aspiration type, and fuel type are associated with city, highway, and combined MPG. It also emphasizes the importance of multivariable modeling when comparing vehicle technologies.
+The analysis demonstrates how engine displacement, drivetrain, aspiration type, and fuel type are associated with city, highway, and combined MPG. It also emphasizes the importance of multivariable analysis when interpreting efficiency outcomes across vehicle categories.
 
 **Tools:** R, Excel data, statistical modeling, and data visualization
 
@@ -47,7 +47,7 @@ The analysis demonstrates how engine displacement, drivetrain, aspiration type, 
 
 [View the project repository](https://github.com/abidurrahman2025/Real-time-Currency-Volatility-Dashboard)
 
-This Python and Plotly Dash application provides an interactive view of short- and medium-term volatility across currency pairs. It is designed for traders, analysts, and researchers who need an accessible way to monitor changing foreign-exchange market conditions.
+This Python and Plotly Dash application provides an interactive view of short- and medium-term volatility across currency pairs. It is designed for traders, analysts, and researchers who need an accessible but rigorous way to monitor exchange-rate risk in near real time.
 
 Key capabilities include:
 
@@ -79,9 +79,9 @@ The project demonstrates how financial time-series analytics can be combined wit
 
 ## About Me
 
-I am Abidur Rahman, a passionate Information Science student at the University of South Florida. I'm interested in data science, and technology innovation. I turn raw numbers into actionable insights using Python, R, and Tableau, and I thrive on the intersection of statistical rigor and creative problem-solving. Whether collaborating on group analytics projects or building independent Java applications, my goal is always the same: to make data work for people.
+I am Abidur Rahman, a passionate Information Science student at the University of South Florida. I'm interested in data science, and technology innovation. I turn raw numbers into actionable insights and enjoy building analytical tools that connect technical depth with real-world decision-making.
 
-I'm passionate about leveraging AI to write smarter code and staying hands-on with every step of the data lifecycle. Dive into my projects below, or connect with me on LinkedIn—I'm always excited to geek out over a good dataset.
+I'm passionate about leveraging AI to write smarter code and staying hands-on with every step of the data lifecycle. Dive into my projects below, or connect with me on LinkedIn—I'm always excited to collaborate on meaningful data challenges.
 My Interests
 
     Data Science & Analytics
