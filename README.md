@@ -4,11 +4,11 @@ Welcome to my data analytics and visual analytics portfolio. This page showcases
 
 ## Featured Projects
 
-### 1. Assessing the Impact of Market Shifts on Automotive Efficiency (1975–2025)
+### 1. Assessing Automotive Efficiency: Technology Gains vs. Vehicle Size (1975–2025)
 
 [View the project repository](https://github.com/abidurrahman2025/automotive-efficiency-trends.git)
 
-This R-based visual analytics project explores how vehicle class, engine displacement, transmission type, and model year relate to fuel economy. It uses vehicle data from the U.S. Department of Energy, EPA, and historical automotive market records to examine how fuel efficiency has changed over time and across vehicle segments.
+This data analysis project investigates whether the shift toward larger vehicles reduced the fuel-efficiency gains achieved through automotive technology improvements from 1975 to 2025. Using EPA vehicle data, the project explores how vehicle class, engine displacement, transmission type, and model year relate to combined MPG over time.
 
 The analysis includes:
 
@@ -16,9 +16,9 @@ The analysis includes:
 - Changes in vehicle-class composition over time
 - The relationship between engine displacement and combined MPG
 - Gasoline and diesel efficiency trends from 1975 through 2025
-- Density plots, stacked bar charts, scatterplots, trend lines, and faceted comparisons
+- Density plots, stacked bar charts, scatterplots, and trend-line comparisons
 
-**Tools:** R, `ggplot2`, `dplyr`, `readr`, and `tidyr`
+**Tools:** Python, `pandas`, `NumPy`, `matplotlib`, `seaborn`, and data visualization
 
 ---
 
