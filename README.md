@@ -22,24 +22,25 @@ The analysis includes:
 
 ---
 
-### 2. Analysis of 2025 Vehicle Fuel Economy
+### 2. 2025 Vehicle Fuel Economy Analysis
 
 [View the project repository](https://github.com/abidurrahman2025/2025-vehicle-fuel-economy-analysis.git)
 
-This statistical analysis examines 2025 model-year vehicle fuel economy using data from the EPA and U.S. Department of Energy Fuel Economy Guide. The project investigates whether fuel economy differs across vehicle classes and evaluates how design, engine, and drivetrain factors influence performance. It focuses on identifying the most important predictors of city, highway, and combined MPG while accounting for confounding relationships among variables.
+This project analyzes 2025 model-year fuel economy data from FuelEconomy.gov to evaluate how aspiration type, fuel type, engine displacement, and drivetrain relate to city, highway, and combined MPG. It combines descriptive statistics, hypothesis testing, and regression modeling to assess which variables meaningfully explain variation in fuel efficiency across the vehicle fleet.
 
-The project applies:
+The analysis includes:
 
+- Data collection and cleaning from EPA and DOE fuel economy data
 - Descriptive statistics and exploratory visualization
-- Two-sample t-tests
-- ANOVA and interaction analysis
+- Welch t-tests for pairwise comparisons
+- Two-way ANOVA and interaction analysis
 - Correlation analysis
-- Multiple linear regression
-- Model diagnostics and interpretation of confounding variables
+- Multiple linear regression and model diagnostics
+- Interpretation of confounding effects and model assumptions
 
-The analysis demonstrates how engine displacement, drivetrain, aspiration type, and fuel type are associated with city, highway, and combined MPG. It also emphasizes the importance of multivariable modeling when evaluating vehicle efficiency rather than relying on single-variable comparisons.
+The results show how engine size and vehicle configuration influence efficiency and highlight how accounting for confounding variables changes the interpretation of fuel type and aspiration effects.
 
-**Tools:** R, Excel data, statistical modeling, and data visualization
+**Tools:** Python, `pandas`, `NumPy`, `matplotlib`, `scipy`, `statsmodels`, `openpyxl`, and statistical modeling
 
 ---
 
