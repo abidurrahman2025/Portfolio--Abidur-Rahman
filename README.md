@@ -1,6 +1,6 @@
 # Abidur Rahman — Data Analytics Portfolio
 
-Welcome to my data analytics and visual analytics portfolio. This page showcases projects that combine statistical analysis, data visualization, programming, and practical problem-solving across the full data lifecycle.
+Welcome to my data analytics and visual analytics portfolio. This page showcases projects that combine statistical analysis, data visualization, programming, and practical problem-solving across three key areas: transportation, finance, and business analytics.
 
 ## Featured Projects
 
@@ -8,7 +8,7 @@ Welcome to my data analytics and visual analytics portfolio. This page showcases
 
 [View the project repository](https://github.com/abidurrahman2025/automotive-efficiency-trends.git)
 
-This data analysis project investigates whether the shift toward larger vehicles reduced the fuel-efficiency gains achieved through automotive technology improvements from 1975 to 2025. Using EPA fuel economy data and vehicle class summaries, the analysis compares how efficiency changed across passenger cars, SUVs, and trucks over time.
+This data analysis project investigates whether the shift toward larger vehicles reduced the fuel-efficiency gains achieved through automotive technology improvements from 1975 to 2025. Using EPA fuel economy data and vehicle characteristics, the analysis evaluates how improvements in engine and vehicle technology compare across different vehicle classes.
 
 The analysis includes:
 
@@ -26,7 +26,7 @@ The analysis includes:
 
 [View the project repository](https://github.com/abidurrahman2025/2025-vehicle-fuel-economy-analysis.git)
 
-This project analyzes 2025 model-year fuel economy data from FuelEconomy.gov to evaluate how aspiration type, fuel type, engine displacement, and drivetrain relate to city, highway, and combined MPG. It combines descriptive statistics, hypothesis testing, and regression modeling to assess which variables meaningfully explain variation in fuel efficiency across the vehicle fleet.
+This project analyzes 2025 model-year fuel economy data from FuelEconomy.gov to evaluate how aspiration type, fuel type, engine displacement, and drivetrain relate to city, highway, and combined MPG. It uses statistical testing and modeling to uncover how design choices and vehicle configuration affect efficiency.
 
 The analysis includes:
 
@@ -48,7 +48,7 @@ The results show how engine size and vehicle configuration influence efficiency 
 
 [View the project repository](https://github.com/abidurrahman2025/Real-time-Currency-Volatility-Dashboard)
 
-This Python and Plotly Dash application provides an interactive view of short- and medium-term volatility across currency pairs. It is designed for traders, analysts, and researchers who need an accessible way to monitor changing market conditions and compare volatility behavior over time.
+This Python and Plotly Dash application provides an interactive view of short- and medium-term volatility across currency pairs. It is designed for traders, analysts, and researchers who need an accessible yet analytical way to monitor market behavior and risk.
 
 Key capabilities include:
 
@@ -66,6 +66,28 @@ The project demonstrates how financial time-series analytics can be combined wit
 
 ---
 
+### 4. Bank Telemarketing Campaign Optimization
+
+[View the project repository](https://github.com/abidurrahman2025/bank-telemarketing-conversion-optimization.git)
+
+This project focuses on improving the efficiency of a bank's telemarketing strategy by identifying which customers are most likely to convert to a term deposit. Using a Portuguese banking dataset, the workflow combines segmentation, predictive modeling, and evaluation to support smarter customer targeting and campaign resource allocation.
+
+The analysis includes:
+
+- Data cleaning and feature preparation from bank marketing records
+- Removal of post-call variables such as call duration to avoid target leakage
+- K-means clustering to segment customer behavior patterns
+- Logistic regression and random forest modeling
+- Class imbalance handling for improved conversion detection
+- ROC analysis, lift evaluation, and model comparison
+- Business-oriented interpretation of campaign optimization opportunities
+
+The project demonstrates how data-driven targeting can improve conversion rates while reducing wasted outreach effort in telemarketing operations.
+
+**Tools:** Python, `pandas`, `NumPy`, `scikit-learn`, `imbalanced-learn`, `matplotlib`, `seaborn`, and machine learning
+
+---
+
 ## Skills Demonstrated
 
 - Data cleaning and preparation
@@ -80,9 +102,9 @@ The project demonstrates how financial time-series analytics can be combined wit
 
 ## About Me
 
-I am Abidur Rahman, a passionate Information Science student at the University of South Florida. I'm interested in data science, and technology innovation. I turn raw numbers into actionable insights and enjoy building analytical tools that support both technical and practical decision-making.
+I am Abidur Rahman, a passionate Information Science student at the University of South Florida. I'm interested in data science, and technology innovation. I turn raw numbers into actionable insights and build analytical tools that help solve real-world problems.
 
-I'm passionate about leveraging AI to write smarter code and staying hands-on with every step of the data lifecycle. Dive into my projects below, or connect with me on LinkedIn—I'm always excited to collaborate and learn.
+I'm passionate about leveraging AI to write smarter code and staying hands-on with every step of the data lifecycle. Dive into my projects below, or connect with me on LinkedIn—I'm always excited to collaborate on impactful work.
 My Interests
 
     Data Science & Analytics
