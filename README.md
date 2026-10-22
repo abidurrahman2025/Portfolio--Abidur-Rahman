@@ -4,7 +4,7 @@ Welcome to my data analytics and visual analytics portfolio. This page showcases
 
 ## Featured Projects
 
-### 1. Assessing Automotive Efficiency: Technology Gains vs. Vehicle Size (1975–2025)
+### Assessing Automotive Efficiency: Technology Gains vs. Vehicle Size (1975–2025)
 
 [View the project repository](https://github.com/abidurrahman2025/automotive-efficiency-trends.git)
 
@@ -22,7 +22,29 @@ The analysis includes:
 
 ---
 
-### 2. 2025 Vehicle Fuel Economy Analysis
+### Bank Telemarketing Campaign Optimization
+
+[View the project repository](https://github.com/abidurrahman2025/bank-telemarketing-conversion-optimization.git)
+
+This project focuses on improving the efficiency of a bank's telemarketing strategy by identifying which customers are most likely to convert to a term deposit. Using a Portuguese banking dataset, the workflow combines segmentation, predictive modeling, and evaluation to support smarter customer targeting and campaign resource allocation.
+
+The analysis includes:
+
+- Data cleaning and feature preparation from bank marketing records
+- Removal of post-call variables such as call duration to avoid target leakage
+- K-means clustering to segment customer behavior patterns
+- Logistic regression and random forest modeling
+- Class imbalance handling for improved conversion detection
+- ROC analysis, lift evaluation, and model comparison
+- Business-oriented interpretation of campaign optimization opportunities
+
+The project demonstrates how data-driven targeting can improve conversion rates while reducing wasted outreach effort in telemarketing operations.
+
+**Tools:** Python, `pandas`, `NumPy`, `scikit-learn`, `imbalanced-learn`, `matplotlib`, `seaborn`, and machine learning
+
+---
+
+### 2025 Vehicle Fuel Economy Analysis
 
 [View the project repository](https://github.com/abidurrahman2025/2025-vehicle-fuel-economy-analysis.git)
 
@@ -44,7 +66,7 @@ The results show how engine size and vehicle configuration influence efficiency 
 
 ---
 
-### 3. Real-time Currency Volatility Dashboard
+### Real-time Currency Volatility Dashboard
 
 [View the project repository](https://github.com/abidurrahman2025/Real-time-Currency-Volatility-Dashboard)
 
@@ -66,27 +88,7 @@ The project demonstrates how financial time-series analytics can be combined wit
 
 ---
 
-### 4. Bank Telemarketing Campaign Optimization
 
-[View the project repository](https://github.com/abidurrahman2025/bank-telemarketing-conversion-optimization.git)
-
-This project focuses on improving the efficiency of a bank's telemarketing strategy by identifying which customers are most likely to convert to a term deposit. Using a Portuguese banking dataset, the workflow combines segmentation, predictive modeling, and evaluation to support smarter customer targeting and campaign resource allocation.
-
-The analysis includes:
-
-- Data cleaning and feature preparation from bank marketing records
-- Removal of post-call variables such as call duration to avoid target leakage
-- K-means clustering to segment customer behavior patterns
-- Logistic regression and random forest modeling
-- Class imbalance handling for improved conversion detection
-- ROC analysis, lift evaluation, and model comparison
-- Business-oriented interpretation of campaign optimization opportunities
-
-The project demonstrates how data-driven targeting can improve conversion rates while reducing wasted outreach effort in telemarketing operations.
-
-**Tools:** Python, `pandas`, `NumPy`, `scikit-learn`, `imbalanced-learn`, `matplotlib`, `seaborn`, and machine learning
-
----
 
 ## Skills Demonstrated
 
